@@ -1,0 +1,8 @@
+/*gives bottom border for header,article,footer and h1 tag*/
+div.border header,h1,article,footer{
+    border-bottom: solid black;
+}
+/*border as bottom line*/
+body{
+    border-bottom: solid black;
+}
